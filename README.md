@@ -1,6 +1,9 @@
-## 🚀 Installation & Configuration
+## 📋 Prerequisites
 
-Getting WConv up and running is simple with Docker:
+- **Docker** (version 20.0 or higher)
+- **Docker Compose** (version 2.0 or higher)
+
+## 🚀 Installation & Configuration
 
 1. **Clone the repository:**
    ```bash
